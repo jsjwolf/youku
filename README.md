@@ -15,4 +15,4 @@ Features
 Screenshot
 ==========
 
-<a href="http://www.dumpt.com/img/files/sg3omvzcji7723pm2prl.png"><img src="http://www.dumpt.com/img/files/sg3omvzcji7723pm2prl.png" title="DotA - sjq" alt="screenshot-demo" /></a>
+<a href="http://www.dumpt.com/img/files/sg3omvzcji7723pm2prl.png" target="_blank"><img src="http://www.dumpt.com/img/files/sg3omvzcji7723pm2prl.png" title="DotA - sjq" alt="screenshot-demo" /></a>
